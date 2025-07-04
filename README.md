@@ -10,7 +10,6 @@ An intelligent chatbot for college-related queries, built using Streamlit and fi
 -  Planned support for chat history context memory
 -  PDF export for chat responses (coming soon)
 
-
 # Getting Started
 
 # Clone the repo
