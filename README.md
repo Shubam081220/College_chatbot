@@ -13,15 +13,15 @@ An intelligent chatbot for college-related queries, built using Streamlit and fi
 
 # Getting Started
 
-# Clone the repo
+Clone the repo
 git clone https://github.com/Shubam081220/College_chatbot.git
 
-# Create and activate a virtual environment (optional but recommended)
+Create and activate a virtual environment (optional but recommended)
 python -m venv venv
 venv\Scripts\activate   # On Windows
 
-# Install dependencies
+Install dependencies
 pip install -r requirements.txt
 
-# Run the model on streamlit
+Run the model on streamlit
 streamlit run chatbot.py
